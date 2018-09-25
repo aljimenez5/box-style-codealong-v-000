@@ -133,6 +133,10 @@ background: linear-gradient(
 ); /* W3C */
 }
 
+.navbar-hover {
+  
+}
+
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
