@@ -367,4 +367,6 @@ section {
 footer {
   text-align: center;
   text-size: .75em;
+  padding: 10px;
+  border-top: 1px solid #;
 }
