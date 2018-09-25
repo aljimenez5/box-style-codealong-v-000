@@ -283,7 +283,8 @@ header {
 /*////////// NAVBAR //////////*/
 
 #navbar {
-  display: fixed;
+  position: fixed;
+  width: 100%;
 }
 
 /*////////// LOGO //////////*/
